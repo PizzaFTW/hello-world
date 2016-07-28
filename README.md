@@ -10,7 +10,7 @@ Last Update: 7/26/16
 
 
 General Rules
-Do not do anything to harm the server or otherwise exploit it.
+n/Do not do anything to harm the server or otherwise exploit it./n
 Respect everyone. No shit-talking, racism, purposefully annoying people or trolling.
 Do not impersonate an admin or staff.
 Do not spam chat.
